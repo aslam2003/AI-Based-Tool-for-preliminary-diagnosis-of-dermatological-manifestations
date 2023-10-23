@@ -1,0 +1,2 @@
+# AI-Based-Tool-for-preliminary-diagnosis-of-dermatological-manifestations
+An AI based tool which is developed using python libraries such as tensorflow,keras etc which is trained on certain skin diseases to detect the possible skin disease and its severity when input image is passed.For people with medium/severe cases nearest hospitals are recommended using OpenStreetMap and OpenCage APis within 5 km radius.
